@@ -30,6 +30,7 @@ Install react toast npm i react-toastify
 
 Host React Project on github pages - git init git status git add . git commit -m "initial commit" git branch -M 'main' git remote add origin "url of repository" git push -u origin 'main'
 
+```Javascript
 npm install gh-pages --save-dev
 
 Add in package.json above name
@@ -44,3 +45,4 @@ If wants to change commit in repo first remove homepage url
 and after committing again write homepage for navbar logo only
 
 npm run deploy
+```
