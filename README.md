@@ -1,5 +1,7 @@
 Created frontend of a single-page e-commerce website with features such as product listing, shopping cart, total rate of added items, and the ability to add or remove items from the cart, along with toaster notifications. Created using React.js, Redux, Tailwind CSS.
 
+check out here - https://amantoor17.github.io/shopping-cart/
+
 
 Steps to run on VS Code -
 
